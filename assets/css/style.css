@@ -1,0 +1,105 @@
+@charset "UTF-8";
+@import url("https://v1.fontapi.ir/css/Estedad");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  direction: rtl;
+  font-family: estedad;
+}
+
+body {
+  background-color: #212428;
+}
+
+.menu-color {
+  background-color: #212428;
+  color: #24a1de;
+}
+
+.logo {
+  width: 150px;
+}
+
+.li-red li :hover {
+  color: red;
+}
+.li-red li a {
+  color: aliceblue;
+}
+
+.outer {
+  color: white;
+  border-radius: 500px;
+  position: relative;
+}
+.inner {
+  width: 15px;
+  position: absolute;
+  left: 156px;
+  top: 10px;
+}
+
+.button-1 {
+  box-shadow: -7px -5px 18px 2px black;
+}
+
+.outer {
+  box-shadow: -12px -1px 16px 0px black;
+}
+
+.wellcome {
+  font-size: 13px;
+  position: relative;
+  top: 170px;
+}
+
+.tarah-web {
+  font-size: 45px;
+  font-weight: bolder;
+  position: relative;
+  top: 180px;
+}
+
+.lorem {
+  position: relative;
+  top: 200px;
+}
+
+.banner {
+  height: 500px;
+  position: relative;
+  top: 130px;
+  right: 150px;
+  box-shadow: -9px -6px 20px black;
+  border-radius: 15px;
+}
+
+.socials p {
+  position: absolute;
+  top: 750px;
+  font-size: 13px;
+}
+
+.social {
+  position: absolute;
+  top: 770px;
+  text-decoration: none;
+}
+
+
+
+
+.skills{
+  margin: 300px;
+}
+
+
+
+
+
+
+
+

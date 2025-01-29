@@ -14,6 +14,8 @@ body {
   background-color: #212428;
 }
 
+
+
 .menu-color {
   background-color: #212428;
   color: #24a1de;
@@ -29,6 +31,11 @@ body {
 .li-red li a {
   color: aliceblue;
 }
+
+
+
+
+
 
 .outer {
   color: white;
@@ -77,24 +84,86 @@ body {
   border-radius: 15px;
 }
 
-.socials p {
-  position: absolute;
-  top: 750px;
-  font-size: 13px;
-}
-
-.social {
-  position: absolute;
-  top: 770px;
-  text-decoration: none;
-}
-
-
-
-
-.skills{
+.skills {
   margin: 300px;
 }
+
+.estrategy {
+  height: 300px;
+  width: 100px;
+  margin-top: 50px;
+  padding: 20px;
+  padding-bottom: 50px;
+  position: relative;
+  bottom: 30px;
+  border-radius: 20px;
+  box-shadow: 8px -9px 17px black;
+  transition: all 0.5s;
+}
+
+.estrategy:hover {
+  transform: scale(1.05);
+}
+
+.menu {
+  position: relative;
+  top: 30px;
+  right: 25px;
+  font-size: 50px;
+  color: rgb(240, 32, 32);
+  padding: 0;
+}
+
+
+.sample{
+  background-color: #212428;
+  box-shadow: 8px 8px 20px 0px black;
+  height: 430px;
+  transition: all 0.5s; 
+  border-radius: 15px;
+}
+
+
+.sample img{
+  border-radius: 15px;
+}
+
+.sample:hover{
+  transform: scale(1.05);
+}
+
+
+
+
+.gallery{
+  font-size: 14px;
+}
+
+
+
+.sceard{
+  height: 305px;
+}
+
+
+
+
+.slider img{
+  position: relative;
+  right: 350px;
+}
+
+
+
+.quality{
+  position: relative;
+  right: 300px;
+  
+}
+
+
+
+
 
 
 
